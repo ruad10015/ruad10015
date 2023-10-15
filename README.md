@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruad10015
 - 👀 I’m interested in playing video games
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++,c#,python and etc.
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me by gmail ruad10015@gmail.cpm
 
